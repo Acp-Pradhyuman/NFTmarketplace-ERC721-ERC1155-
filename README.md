@@ -24,7 +24,11 @@ finally
 
 ## Truffle
 
-Truffle test commands
+Firstly we need to install truffle globally in the system, the command for that is,
+```bash
+  npm install -g truffle
+```
+then we can start the Truffle test command,
 ```bash
   truffle test ./test/NFTmarketplaceWETH.tests.js
 ```
@@ -37,7 +41,6 @@ Truffle test commands
 For information on how to add frontend, checkout Nader Dabit's repo
 
 [repo](https://github.com/dabit3/polygon-ethereum-nextjs-marketplace/)
-
 
 
 ## Authors
