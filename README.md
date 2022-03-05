@@ -4,7 +4,7 @@ A decentralized Opensea smart contract using ERC 721 & ERC 1155 token and Reentr
 
 ## Clone the project
 
-To clone this project, first make sure that node version 10.16.3 or 10.15.3 installed in the system. For this, I would recommend to install Node Version Manager (nvm) in the system. After installing nvm use the command below,
+To clone this project, first make sure that node version 10.16.3 or 10.15.3 is installed in the system. For this, I would recommend to install Node Version Manager (nvm) in the system. After installing nvm use the command below,
 
 ```bash
   nvm install 10.15.3
