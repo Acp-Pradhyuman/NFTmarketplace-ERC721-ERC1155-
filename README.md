@@ -32,7 +32,11 @@ Truffle test commands
   truffle test ./test/TestCases.tests.js
 ```
 
+## Related
 
+For information on how to add frontend, checkout Nader Dabit's repo
+
+[repo](https://github.com/dabit3/polygon-ethereum-nextjs-marketplace/)
 
 
 
