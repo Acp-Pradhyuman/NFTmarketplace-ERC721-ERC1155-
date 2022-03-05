@@ -38,7 +38,7 @@ then we can start the Truffle test command,
 
 ## Related
 
-For information on how to add frontend, checkout Nader Dabit's repo
+For more information on how to add frontend, checkout Nader Dabit's repo
 
 [repo](https://github.com/dabit3/polygon-ethereum-nextjs-marketplace/)
 
